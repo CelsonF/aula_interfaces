@@ -1,0 +1,11 @@
+/Users/fabio/Documents/workspace/POO/Interfaces/obj/Debug/netcoreapp2.2/Interfaces.csprojAssemblyReference.cache
+/Users/fabio/Documents/workspace/POO/Interfaces/obj/Debug/netcoreapp2.2/Interfaces.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/workspace/POO/Interfaces/obj/Debug/netcoreapp2.2/Interfaces.AssemblyInfoInputs.cache
+/Users/fabio/Documents/workspace/POO/Interfaces/obj/Debug/netcoreapp2.2/Interfaces.AssemblyInfo.cs
+/Users/fabio/Documents/workspace/POO/Interfaces/bin/Debug/netcoreapp2.2/Interfaces.deps.json
+/Users/fabio/Documents/workspace/POO/Interfaces/bin/Debug/netcoreapp2.2/Interfaces.runtimeconfig.json
+/Users/fabio/Documents/workspace/POO/Interfaces/bin/Debug/netcoreapp2.2/Interfaces.runtimeconfig.dev.json
+/Users/fabio/Documents/workspace/POO/Interfaces/bin/Debug/netcoreapp2.2/Interfaces.dll
+/Users/fabio/Documents/workspace/POO/Interfaces/bin/Debug/netcoreapp2.2/Interfaces.pdb
+/Users/fabio/Documents/workspace/POO/Interfaces/obj/Debug/netcoreapp2.2/Interfaces.dll
+/Users/fabio/Documents/workspace/POO/Interfaces/obj/Debug/netcoreapp2.2/Interfaces.pdb
