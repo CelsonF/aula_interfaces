@@ -686,28 +686,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/fabio/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\celson\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fabio/Documents/workspace/POO/Interfaces/Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\celson\\Desktop\\Repositorio\\interface_exemple\\aula_interfaces\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "/Users/fabio/Documents/workspace/POO/Interfaces/Interfaces.csproj",
-      "packagesPath": "/Users/fabio/.nuget/packages/",
-      "outputPath": "/Users/fabio/Documents/workspace/POO/Interfaces/obj/",
+      "projectPath": "C:\\Users\\celson\\Desktop\\Repositorio\\interface_exemple\\aula_interfaces\\Interfaces\\Interfaces.csproj",
+      "packagesPath": "C:\\Users\\celson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\celson\\Desktop\\Repositorio\\interface_exemple\\aula_interfaces\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/fabio/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\celson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -732,10 +734,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

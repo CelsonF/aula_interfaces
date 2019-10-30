@@ -1,6 +1,8 @@
-namespace  Interfaces{
+namespace Interfaces
+{
 
-    public interface IFlyable{
-         void fly();  
+    public interface IFlyable
+    {
+        void fly();
     }
 }

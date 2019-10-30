@@ -5,6 +5,7 @@ public class Duck{
     public virtual void quack(){
         Console.WriteLine("quackkk!!!!");
     }
+
     public void swim(){
         Console.WriteLine("Nadar!!!");
     }

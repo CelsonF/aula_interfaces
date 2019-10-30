@@ -16,6 +16,16 @@ namespace Interfaces {
 
             Duck patoborracha = new RubberDuck();
             patoborracha.display();
+
+            Duck patoMadeira = new DuckWood();
+            patoMadeira.display();
+            patoMadeira.quack();
+
+
+            Duck patoMetal = new DuckMetal();
+            patoMetal.display();
+            patoMetal.quack();
+
         }
     }
 }
